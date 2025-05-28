@@ -1,0 +1,1 @@
+# newmind-ai-bootcamp-learning
