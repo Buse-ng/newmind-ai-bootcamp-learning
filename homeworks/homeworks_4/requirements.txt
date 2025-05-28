@@ -1,0 +1,16 @@
+# LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-neo4j
+
+# OpenAI integration
+openai
+tiktoken
+
+# Neo4j database
+neo4j
+
+# Environment management
+python-dotenv
