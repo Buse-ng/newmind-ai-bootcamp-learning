@@ -1,0 +1,6 @@
+id,start_node,relationship,end_node
+rel_uses_technique_1,rec_1,USES_TECHNIQUE,tec_2
+rel_uses_technique_2,rec_2,USES_TECHNIQUE,tec_1
+rel_uses_technique_3,rec_3,USES_TECHNIQUE,tec_1
+rel_uses_technique_4,rec_4,USES_TECHNIQUE,tec_3
+rel_uses_technique_5,rec_5,USES_TECHNIQUE,tec_4

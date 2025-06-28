@@ -1,0 +1,6 @@
+id,start_node,relationship,end_node
+rel_has_flavor_1,rec_1,HAS_FLAVOR,flv_1
+rel_has_flavor_2,rec_3,HAS_FLAVOR,flv_2
+rel_has_flavor_3,rec_4,HAS_FLAVOR,flv_3
+rel_has_flavor_4,rec_2,HAS_FLAVOR,flv_1
+rel_has_flavor_5,rec_5,HAS_FLAVOR,flv_2

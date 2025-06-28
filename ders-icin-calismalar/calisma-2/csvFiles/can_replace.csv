@@ -1,0 +1,3 @@
+id,start_node,relationship,end_node
+rel_can_replace_1,ing_10,CAN_REPLACE,ing_1
+rel_can_replace_2,ing_1,CAN_REPLACE,ing_10
